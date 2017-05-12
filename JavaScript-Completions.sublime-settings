@@ -1,0 +1,4 @@
+{
+	"node_js_custom_path": "/opt/local/bin/node",
+	"npm_custom_path": "/opt/locall/bin/npm"
+}

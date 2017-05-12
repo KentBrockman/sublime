@@ -1,0 +1,23 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Ansible",
+		"Babel",
+		"Babel Snippets",
+		"Dockerfile Syntax Highlighting",
+		"Emmet",
+		"GoSublime",
+		"Javascript Beautify",
+		"JavaScript Completions",
+		"JsFormat",
+		"Monokai Extended",
+		"nginx",
+		"Package Control",
+		"SublimeLinter-contrib-ansible-lint",
+		"Terraform"
+	]
+}

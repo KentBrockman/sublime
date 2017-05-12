@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[try { $SELECTION; } catch(err) {}]]></content>
+    <!-- Optional: Tab trigger to activate the snippet -->
+    <tabTrigger>darken</tabTrigger>
+    <!-- Optional: Scope the tab trigger will be active in -->
+    <scope>source.js</scope>
+    <!-- Optional: Description to show in the menu -->
+    <description>Darken Snippet</description>
+</snippet>

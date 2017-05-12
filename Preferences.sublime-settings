@@ -1,0 +1,11 @@
+{
+	"color_scheme": "Packages/Monokai Extended/Monokai Extended.tmTheme",
+	"font_size": 12,
+	"ignored_packages":
+	[
+		"Javascript Beautify",
+		"JsFormat",
+		"Vintage"
+	],
+	"word_wrap": true
+}
